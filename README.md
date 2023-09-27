@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Afonso Ferreira
-- 🌱 Atualmente estou estudando HTML & CSS
+- 🌱 Atualmente estou estudando HTML, CSS & JavaScript
 - 📫 Fale comigo por:
 - Email - afonsofilhofontinele@gmail.com
 
